@@ -24,23 +24,7 @@ Join us to explore, innovate, and revolutionize social media understanding.
 
 <div align="center">
 
- 🤖 [Website](http://YSocialTwin.github.io) | 🖥️ [YSocial](https://github.com/YSocialTwin/YSocial) | 🖥️ [YServer](https://github.com/YSocialTwin/YServer) | 💻 [YClient](https://github.com/YSocialTwin/YClient) | 📙 [Recipes](https://github.com/YSocialTwin/Scenario_recipes) | 📕 [Preprint](#)
+ 🤖 [Website](http://YSocialTwin.github.io) | 🖥️ [YSocial](https://github.com/YSocialTwin/YSocial) | 🖥️ [YServer](https://github.com/YSocialTwin/YServer) | 💻 [YClient](https://github.com/YSocialTwin/YClient) | 📙 [ySights](https://github.com/YSocialTwin/ysights) | 📕 [Preprint](#)
  
-Y Social Team
-
-<table style="border: 0;">
-<tr>
- <td><img  src="https://github.com/YSocialTwin/.github/blob/main/us/giulio_rossetti.png"> </td>
- <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/massimo_stella.png"></td>
- <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/remy_cazabet.png"></td>
- <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/katherine_abramski.png"></td>
-  <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/erica_cau.png"></td>
- <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/salvatore_citraro.png"></td>
- <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/andrea_failla.png"></td>
- <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/virginia_morini.png"></td>
- <td><img src="https://github.com/YSocialTwin/.github/blob/main/us/valentina_pansanella.png"></td>
-</tr>
- 
-</table>
 
 </div>
